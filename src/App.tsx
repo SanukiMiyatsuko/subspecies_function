@@ -175,9 +175,9 @@ function App() {
         )}
       </div>
       <p>
-        <a href="https://googology.fandom.com/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:%E7%AB%B9%E5%8F%96%E7%BF%81/%E7%AB%B9%E3%80%81%E8%8C%B8%E3%80%82#%E6%A8%AA%E8%8C%B8%E9%96%A2%E6%95%B0" target="_blank" rel="noreferrer">Definition of "Side Mushroom Function"</a> by <a href="https://googology.fandom.com/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC:%E7%AB%B9%E5%8F%96%E7%BF%81" target="_blank" rel="noreferrer">竹取翁</a>, Retrieved 2023/08/06 <br />
-        The program <a href="https://github.com/SanukiMiyatsuko/side_mushroom" target="_blank" rel="noreferrer">https://github.com/SanukiMiyatsuko/side_bamboo</a> is licensed by <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode" target="_blank" rel="noreferrer">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
-        Last updated: 2024/06/30
+        <a href="https://googology.fandom.com/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:%E7%AB%B9%E5%8F%96%E7%BF%81/%E4%BA%9C%E9%96%A2%E6%95%B0#%E4%BA%9C%E9%96%A2%E6%95%B0" target="_blank" rel="noreferrer">Definition of "Subspecies Function"</a> by <a href="https://googology.fandom.com/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC:%E7%AB%B9%E5%8F%96%E7%BF%81" target="_blank" rel="noreferrer">竹取翁</a>, Retrieved 2023/09/17 <br />
+        The program <a href="https://github.com/SanukiMiyatsuko/subspecies_function" target="_blank" rel="noreferrer">https://github.com/SanukiMiyatsuko/subspecies_function</a> is licensed by <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode" target="_blank" rel="noreferrer">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
+        Last updated: 2024/07/02
       </p>
     </div>
   );
