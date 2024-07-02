@@ -19,8 +19,8 @@ type Options = {
   showHide: boolean;
 };
 
-export const headname: string = "茸";
-export const headnamereplace: string = "k";
+export const headname: string = "亜";
+export const headnamereplace: string = "a";
 
 function App() {
   const [inputstrA, setInputA] = useState("");
@@ -86,7 +86,7 @@ function App() {
 
   return (
     <div className="Appb">
-      <h1 className="App">横茸関数計算機</h1>
+      <h1 className="App">亜関数計算機</h1>
       <p className="Appa">
         入力は{headname}(a,b), {headname}_&#123;a&#125;(b)の形式で行ってください。<br />
         a=0の時は{headname}(b)としても大丈夫です。<br />
